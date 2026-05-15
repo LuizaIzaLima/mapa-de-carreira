@@ -84,14 +84,14 @@
   ],
   "skillGroups": [
     {
-      "title": "Frontend",
+      "title": "Gestão",
       "skills": [
         {
-          "name": "HTML, CSS e JavaScript",
+          "name": "Comunicação assertiva",
           "level": 85
         },
         {
-          "name": "React",
+          "name": "Visão estratégica",
           "level": 70
         }
       ]
@@ -124,10 +124,6 @@
     {
       "name": "Ingles",
       "level": "Básico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
     }
   ]
 }
