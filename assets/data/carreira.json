@@ -10,7 +10,7 @@
     "headline": "Educacao, Web e Gestao de TI",
     "photo": "assets/images/profile.jpg",
     "photoAlt": "Foto profissional de Luiza Lima",
-    "summary": "Eu sou Luiza, tenho 18 anos e estou no início da minha trajetória, buscando descobrir meu caminho profissional.  Sei que quero seguir na área de tecnologia, principalmente em algo que envolva pessoas.Sou uma pessoa comunicativa, gosto de conversar, cuidar e orientar quem está ao meu redor. Tenho como inspiração pessoas que se comunicam bem e se preocupam com os outros, e quero desenvolver essas habilidades na minha carreira.Meu objetivo é crescer, entender melhor a mim mesma e construir um futuro onde eu possa ajudar pessoas através da tecnologia.",
+    "summary": "Eu sou Luiza, tenho 18 anos e estou no início da minha trajetória, buscando descobrir meu caminho profissional.  Sei que quero seguir na área de tecnologia, principalmente em algo que envolva pessoas. Sou uma pessoa comunicativa, gosto de conversar, cuidar e orientar quem está ao meu redor. Tenho como inspiração pessoas que se comunicam bem e se preocupam com os outros, e quero desenvolver essas habilidades na minha carreira.Meu objetivo é crescer, entender melhor a mim mesma e construir um futuro onde eu possa ajudar pessoas através da tecnologia.",
     "cvUrl": "#"
   },
   "contacts": [
@@ -30,8 +30,7 @@
   "careerSteps": [
     {
       "title": " Tech Support / Customer Experience ",
-      "description": "Quero começar minha trajetória em uma área que me permita ter contato direto com pessoas, entendendo suas necessidades e ajudando a resolver problemas. Acredito que esse será um passo importante para desenvolver minha comunicação, empatia e escuta ativa dentro do contexto da tecnologia.
-Meu objetivo é aprender como os sistemas funcionam, como orientar usuários e como transformar problemas em soluções de forma clara e acessível. Também desejo me sentir mais segura dentro da área tech, criando uma base sólida para os próximos passos da minha carreira.",
+      "description": "Quero começar minha trajetória em uma área que me permita ter contato direto com pessoas, entendendo suas necessidades e ajudando a resolver problemas. Acredito que esse será um passo importante para desenvolver minha comunicação, empatia e escuta ativa dentro do contexto da tecnologia. Meu objetivo é aprender como os sistemas funcionam, como orientar usuários e como transformar problemas em soluções de forma clara e acessível. Também desejo me sentir mais segura dentro da área tech, criando uma base sólida para os próximos passos da minha carreira.",
       "softSkills": [
         "Comunicação clara e empática.",
         "Paciência e controle emocional.",
@@ -47,34 +46,39 @@ Meu objetivo é aprender como os sistemas funcionam, como orientar usuários e c
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "UX / Research",
+      "description": "Busco evoluir para uma área onde eu consiga unir tecnologia com comportamento humano. Quero entender como as pessoas pensam, sentem e interagem com sistemas digitais, criando experiências mais humanas e acessíveis. Meu objetivo é trabalhar com pesquisa de usuários, análise de comportamento e criação de soluções que realmente façam sentido para as pessoas. Quero ajudar a construir tecnologias que respeitem as diferenças e incluam todos, independente de quem sejam. Essa etapa conecta diretamente com meu desejo de cuidar das pessoas e entender melhor a mente humana.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Empatia e sensibilidade.",
+        "Pensamento analítico.",
+        "Comunicação e escuta ativa.",
+        "Criatividade na resolução de problemas."
       ],
       "roadmap": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "UX Design",
+        "Psicologia básica",
+        "Pesquisa com usuários",
+        "Testes de usabilidade ",
+        "Figma ",
+        "Design Thinking"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Agile / Scrum Master",
+      "description": "No futuro, me vejo liderando equipes e cuidando não só dos projetos, mas principalmente das pessoas dentro deles. Quero atuar como Scrum Master, ajudando times a se organizarem, se comunicarem melhor e alcançarem seus objetivos de forma saudável e colaborativa. Meu foco será garantir que todos tenham voz, que o ambiente seja respeitoso e que o trabalho em equipe realmente funcione. Quero usar minha habilidade de comunicação e meu cuidado com as pessoas para fortalecer os times e tornar o processo de trabalho mais humano. Esse é o caminho que mais conecta com quem eu sou e com o que eu acredito.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Liderança empática.",
+        "Comunicação e mediação de conflitos.",
+        "Organização e visão de equipe.",
+        "Inteligência emocional."
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Metodologias ágeis",
+        "Scrum",
+        "Kanban",
+        "Comunicação não violenta",
+        "Liderança",
+        "Gestão de equipes"
       ]
     }
   ],
