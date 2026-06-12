@@ -96,20 +96,7 @@
         }
       ]
     },
-    {
-      "title": "Backend e dados",
-      "skills": [
-        {
-          "name": "Node.js e APIs",
-          "level": 65
-        },
-        {
-          "name": "SQL",
-          "level": 60
-        }
-      ]
-    }
-  ],
+    
   "otherSkills": [
     "Git",
     "Comunicação assertiva",
