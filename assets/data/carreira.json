@@ -95,6 +95,20 @@
           "level": 70
         }
       ]
+    },
+
+    {
+      "title": "Design",
+      "skills": [
+        {
+          "name": "Canva",
+          "level": 85
+        },
+        {
+          "name": "Figma",
+          "level": 60
+        }
+      ]
     }
   ],
     
