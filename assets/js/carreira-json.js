@@ -7,7 +7,7 @@
 	- montagem dinamica fica no JavaScript.
 */
 
-const DATA_URL = "./assets/data/carreira.json";
+const DATA_URL = "/mapa-de-carreira/assets/data/carreira.json";
 
 const createElement = (tagName, className, textContent) => {
 	const element = document.createElement(tagName);
